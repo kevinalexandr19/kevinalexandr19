@@ -1,5 +1,9 @@
 <h1 align="center">Kevin Alexander Gomez 🇵🇪</h1>
 
+<h4 align="center">
+  <em>AI Geologist, Author of Python for Geologists</em>
+</h1>
+
 <h3 align="center">
   <span style="color:#D4AF37;">📚 Economic Geology &nbsp;| ⛏️ Mineral Exploration</span>
   &nbsp;|
