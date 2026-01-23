@@ -1,3 +1,15 @@
+<h1 align="center">Kevin Alexander Gomez</h1>
+
+<h3 align="center">
+  <span style="color:#D4AF37;">Economic Geology &amp; Mineral Exploration</span>
+  &nbsp;|&nbsp;
+  <span style="color:#7CFC90;">Artificial Intelligence &amp; Geospatial</span>
+</h3>
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinalexandr19&show_icons=true&theme=dark)
 <!--
 **kevinalexandr19/kevinalexandr19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
