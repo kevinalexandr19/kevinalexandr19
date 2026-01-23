@@ -1,15 +1,13 @@
 <h1 align="center">Kevin Alexander Gomez 🇵🇪</h1>
 
 <h3 align="center">
- <em> AI Geoscientist, MSc Geology, Author of Python for Geologists </em>
+ <em> AI Geoscientist, Author of Python for Geologists </em>
  <!-- $\color{blue}{AI \space Geoscientist}$,  $\color{red}{MSc \space Economic \space Geology}$, $\color{lightgreen}{Author \space of \space Python \space for \space Geologists}$-->
 </h3>
 
 <h4 align="center">
   📚 Economic Geology &nbsp;| ⛏️ Mineral Exploration &nbsp;| 💡 Artificial Intelligence &nbsp;| 🌎 Geospatial Analysis
 </h4>
-
-
 
 
 
