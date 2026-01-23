@@ -1,7 +1,8 @@
 <h1 align="center">Kevin Alexander Gomez 🇵🇪</h1>
 
 <h3 align="center">
- $\color{blue}{AI \space Geoscientist}$,  $\color{red}{MSc \space Economic \space Geology}$, $\color{lightgreen}{Author \space of \space Python \space for \space Geologists}$
+ <em> AI Geoscientist, MSc Geology, Author of Python for Geologists </em>
+ <!-- $\color{blue}{AI \space Geoscientist}$,  $\color{red}{MSc \space Economic \space Geology}$, $\color{lightgreen}{Author \space of \space Python \space for \space Geologists}$-->
 </h3>
 
 <h4 align="center">
