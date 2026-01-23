@@ -1,9 +1,9 @@
 <h1 align="center">Kevin Alexander Gomez 🇵🇪</h1>
 
 <h3 align="center">
-  <span style="color:#D4AF37;">📚 Economic Geology  &amp; ⛏️ Mineral Exploration</span>
-  &nbsp;|&nbsp;
-  <span style="color:#7CFC90;">💡 Artificial Intelligence  &amp; 🌎 Geospatial Analysis</span>
+  <span style="color:#D4AF37;">📚 Economic Geology &nbsp;| ⛏️ Mineral Exploration</span>
+  &nbsp;|
+  <span style="color:#7CFC90;">💡 Artificial Intelligence &nbsp;| 🌎 Geospatial Analysis</span>
 </h3>
 
 
