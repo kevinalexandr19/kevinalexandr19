@@ -10,7 +10,7 @@
 </h4>
 
 <h3 align="center">
- <em> I'm decoding the geochemical secrets of how our planet moves gold to where we can find it </em>
+ <em> Decoding the geochemical secrets of how our planet moves gold to where we can find it </em>
 </h3>
 <br>
 
