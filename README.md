@@ -9,9 +9,6 @@
   📚 Economic Geology &nbsp;| ⛏️ Mineral Exploration &nbsp;| 💡 Artificial Intelligence &nbsp;| 🌎 Geospatial Analysis
 </h4>
 
-<h3 align="center">
- <em> Decoding the geochemical secrets of how our planet moves gold to where we can find it </em>
-</h3>
 <br>
 
 <!--
